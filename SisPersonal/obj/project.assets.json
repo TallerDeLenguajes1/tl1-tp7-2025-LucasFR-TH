@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
+      "projectUniqueName": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
       "projectName": "SisPersonal",
-      "projectPath": "E:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "E:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\obj\\",
+      "projectPath": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

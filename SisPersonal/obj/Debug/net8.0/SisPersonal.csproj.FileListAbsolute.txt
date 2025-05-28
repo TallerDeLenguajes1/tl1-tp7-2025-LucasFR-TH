@@ -1,0 +1,5 @@
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfoInputs.cache
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfo.cs
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.csproj.CoreCompileInputs.cache
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.sourcelink.json

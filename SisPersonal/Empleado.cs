@@ -1,28 +1,57 @@
-namespace Empleado;
+namespace CargarEmpleados;
 
 public class Empleado
 {
     public enum cargos { Auxiliar, Administrativo, Ingeniero, Especialista, Investigador }
+
+    // CAMPOS Y PROPIEDADES
     private string nombre;
+    public string Nombre
+    {
+        get => nombre;
+        set => nombre = value;
+    }
+
     private string apellido;
+    public string Apellido
+    {
+        get => apellido;
+        set => apellido = value;
+    }
     private DateTime fechadenacimiento;
-    public DateTime Fechadenacimiento
+    public  DateTime FechaNacimiento
     {
         get => fechadenacimiento;
+        set => fechadenacimiento = value;
     }
+
     private char estadocivil;
+    public char Estadocivil
+    {
+        get => estadocivil;
+        set => estadocivil = value;
+    }
     private DateTime fechaingreso;
-    public DateTime Fechaingreso
+    public DateTime FechaIngreso
     {
         get => fechaingreso;
+        set => fechaingreso = value;
     }
-    private double sueldobasico;
+
+    private double sueldobasico;    
     public double Sueldobasico
     {
         get => sueldobasico;
+        set => sueldobasico = value;
     }
-    private cargos MyProperty;
+    private cargos cargo;
+    public cargos Cargo
+    {
+        get => cargo;
+        set => cargo = value;
+    }
 
+    // METODOS
     public int Antiguedad()
     {
         return DateTime.Now.Year - fechaingreso.Year;
@@ -48,6 +77,16 @@ public class Empleado
         else
         {
             adicional = ((sueldobasico + sueldobasico * 0.01) * 20) + ((sueldobasico + sueldobasico * 0.25) * (Antiguedad() - 20));
+        }
+
+        if (cargos == cargos.Ingeniero || cargos == cargos.Especialista)
+        {
+            adicional = adicional * 1.5;
+        }
+
+        if (estadocivil == 'C')
+        {
+            adicional = adicional + 150000;
         }
 
         return sueldobasico + adicional;
