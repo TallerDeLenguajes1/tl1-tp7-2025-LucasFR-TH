@@ -79,7 +79,7 @@ public class Empleado
             adicional = ((sueldobasico + sueldobasico * 0.01) * 20) + ((sueldobasico + sueldobasico * 0.25) * (Antiguedad() - 20));
         }
 
-        if (cargos == cargos.Ingeniero || cargos == cargos.Especialista)
+        if (cargo == cargos.Ingeniero || cargo == cargos.Especialista)
         {
             adicional = adicional * 1.5;
         }

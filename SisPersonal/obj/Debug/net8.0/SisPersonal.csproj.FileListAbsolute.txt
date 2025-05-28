@@ -3,3 +3,13 @@ F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\Sis
 F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfo.cs
 F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.csproj.CoreCompileInputs.cache
 F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.sourcelink.json
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\bin\Debug\net8.0\SisPersonal.exe
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\bin\Debug\net8.0\SisPersonal.deps.json
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\bin\Debug\net8.0\SisPersonal.runtimeconfig.json
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\bin\Debug\net8.0\SisPersonal.dll
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\bin\Debug\net8.0\SisPersonal.pdb
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.dll
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\refint\SisPersonal.dll
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.pdb
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\SisPersonal.genruntimeconfig.cache
+F:\TALLER LENGUAJE\tp07\tl1-tp7-2025-LucasFR-TH\SisPersonal\obj\Debug\net8.0\ref\SisPersonal.dll
