@@ -34,6 +34,7 @@ while (opern != 0)
                     case 1:
                         calc.Sumar(terminon);
                         Console.WriteLine("Resultado:" + calc.Resultado.ToString());
+                        
                         break;
                     case 2:
                         calc.Restar(terminon);
