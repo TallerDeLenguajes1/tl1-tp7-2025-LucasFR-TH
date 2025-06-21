@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj": {}
+    "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj": {}
   },
   "projects": {
-    "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj": {
+    "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
+        "projectUniqueName": "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
         "projectName": "SisPersonal",
-        "projectPath": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
+        "projectPath": "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\SisPersonal.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\obj\\",
+        "outputPath": "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp07\\tl1-tp7-2025-LucasFR-TH\\SisPersonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
